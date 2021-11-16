@@ -177,7 +177,8 @@ main {
     cursor: pointer;
     padding: .95em 1em;
     transition: 0.3s;
-    color:#FFAE38
+    color:#FFAE38;
+    font-size: 1.2rem;
 }
 
 .tab-button:hover,
