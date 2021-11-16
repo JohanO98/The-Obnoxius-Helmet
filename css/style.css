@@ -96,13 +96,12 @@ nav a:focus {
 @media screen and (min-width: 900px) {
     nav ul {
         flex-direction: row;
-        margin: 0;
         align-content: center;
-        font-size: 1.6rem;
+
     }
 
     nav {
-        padding-top: 1em;
+        padding: 2.3em 0;
         margin-right: 6em;
     }
 
